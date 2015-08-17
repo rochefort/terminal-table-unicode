@@ -32,7 +32,7 @@ table = Terminal::Table.new :rows => rows
 puts table
 ```
 
-[terminal-table-unicode_example.png (665×155)](https://gist.githubusercontent.com/rochefort/8ea4a216dca2194b9411/raw/e0ce829b02e3808a6484f5738fc5476f02601df5/terminal-table-unicode_example.png)  
+![terminal-table-unicode_example.png](https://gist.githubusercontent.com/rochefort/8ea4a216dca2194b9411/raw/e0ce829b02e3808a6484f5738fc5476f02601df5/terminal-table-unicode_example.png)  
 
 
 You can use with other options.   
