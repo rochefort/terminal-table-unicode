@@ -1,6 +1,6 @@
 # terminal-table-unicode
 
-[tj/terminal-table](https://github.com/tj/terminal-table) is a great rubygems. But it has a probrem that can deal with [full-width unicode characters](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms#Fullwidth_form). terminal-table-unicode solved that.
+[tj/terminal-table](https://github.com/tj/terminal-table) is an awesome rubygem. But it has a probrem that can deal with [full-width unicode characters](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms#Fullwidth_form). terminal-table-unicode solved that.
 I referred to [miaout17/hirb-unicode](https://github.com/miaout17/hirb-unicode).  
 
 ## Installation
