@@ -40,4 +40,4 @@ see more: [tj/terminal-table](https://github.com/tj/terminal-table)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/terminal-table-unicode.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rochefort/terminal-table-unicode.
