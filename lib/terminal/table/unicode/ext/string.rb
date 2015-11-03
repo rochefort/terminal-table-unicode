@@ -1,21 +1,5 @@
+require 'unicode-display_width'
 class String
-  def display_width(ambiguous = 1)
-    #codepoints.inject(0){ |a,c|
-    unpack('U*').inject(0){ |a,c|
-      width = case Unicode::DisplayWidth.codepoint(c).to_s
-              when *%w[F W]
-                2
-              when *%w[N Na H]
-                1
-              when *%w[A] # TODO
-                ambiguous
-              else
-                1
-              end
-      a + width
-    }
-  end
-
   def mb_ljust(desired_width)
     padding = desired_width - display_width
     padding > 0 ? self + ' ' * padding : self
