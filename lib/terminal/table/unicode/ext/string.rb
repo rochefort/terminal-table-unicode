@@ -1,4 +1,3 @@
-require 'unicode-display_width'
 class String
   def mb_ljust(desired_width)
     padding = desired_width - display_width
