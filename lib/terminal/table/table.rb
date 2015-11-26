@@ -1,4 +1,3 @@
-
 module Terminal
   class Table
     private
@@ -24,6 +23,5 @@ module Terminal
         end
       end
     end
-    
   end
 end
