@@ -1,1 +1,1 @@
-require 'terminal/table/unicode'
+require "terminal/table/unicode"

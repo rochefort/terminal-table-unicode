@@ -1,7 +1,7 @@
 module Terminal
   class Table
     module Unicode
-      VERSION = '0.1.7'
+      VERSION = "0.1.7"
     end
   end
 end
